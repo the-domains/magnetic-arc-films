@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Simplex XL
-datePublished: '2016-04-21T07:44:01.993Z'
-dateModified: '2016-04-21T07:43:50.284Z'
+datePublished: '2016-04-21T18:01:26.838Z'
+dateModified: '2016-04-21T09:23:00.467Z'
 title: ''
 author: []
 authors: []
