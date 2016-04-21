@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Magnetic Arc Films]]></title>
+        <description><![CDATA[Magnetic Arc Films]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 07:44:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c28155f-0310-4d8c-bb24-7d2b7fb91821.jpg">]]></description>
+            <link>undefinedsimplex-xl/index.html</link>
+            <guid isPermaLink="false">f9372608-fd61-4523-8c15-21150617255c</guid>
+            <pubDate>Thu, 21 Apr 2016 07:44:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
