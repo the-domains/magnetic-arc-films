@@ -1,0 +1,28 @@
+name: Magnetic Arc Films
+favicon: null
+layout_spectrum: 0.2509368893224746
+typography_spectrum: 0.34558553085662425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8954481491819024
+  lightness: 0.0004708173219114542
+  saturation: 0.4998388523235917
+  rhythmicContrast: 0.9738591047935188
+purpose: []
