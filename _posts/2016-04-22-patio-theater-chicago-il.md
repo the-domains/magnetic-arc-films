@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Patio Theater - Chicago, IL'
-datePublished: '2016-04-22T04:36:50.540Z'
-dateModified: '2016-04-22T04:36:44.173Z'
+datePublished: '2016-04-22T04:49:38.146Z'
+dateModified: '2016-04-22T04:49:37.308Z'
 title: ''
 author: []
 authors: []
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 Patio Theater - Chicago, IL
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0345882e-2f32-4cca-9135-9313bedb7030.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac91c43-891b-4dee-9b27-fc07a2c5038c.jpg)
