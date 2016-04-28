@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sixxx "Live Wire" '
-datePublished: '2016-04-28T06:29:46.672Z'
-dateModified: '2016-04-28T06:29:42.061Z'
+datePublished: '2016-04-28T06:30:10.332Z'
+dateModified: '2016-04-28T06:29:55.085Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-28-sixxx-live-wire.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-04-28-sixxx-live-wire.md
-published: true
 url: sixxx-live-wire/index.html
 _type: Article
 
